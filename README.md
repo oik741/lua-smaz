@@ -4,7 +4,9 @@ simple compression library suitable for compressing very short strings
 
 ## Running the tests
 
-TODO
+```shell
+$ ./test/test_smaz.lua
+```
 
 ## Usage
 ```lua
